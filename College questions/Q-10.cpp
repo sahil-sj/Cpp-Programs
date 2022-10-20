@@ -1,3 +1,5 @@
+// Write a program which reads two complex numbers and then calculate
+// the difference between the two by passing object as function arguments.
 # include<iostream>
 using namespace std;
 class complex{

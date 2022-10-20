@@ -1,3 +1,5 @@
+// Write a program which reads two complex numbers and then 
+// calculate the multiplication between the two using oops concept. 
 #include<iostream>
 using namespace std;
 class Counter
